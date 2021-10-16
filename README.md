@@ -13,7 +13,7 @@ O app segue a arquitetura MVVM e apresenta as seguintes tecnologias:
 
 obs: exemplo de paginação no branch finalPaged
 
-A API utilizada está no repositório: https://github.com/cicerojmm/picPayCloneMentoriaDIO
+A API utilizada está no repositório: https://github.com/HugoAPortela/API-Autenticacao-JWT-Java-Clone-PicPay
 
 | | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
